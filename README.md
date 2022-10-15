@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Epet91
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning HTMl
+- 👋 Hi, I’m @Epet9126
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing ATM
-- 📫 How to reach me Discord Pro27#3848
+- 📫 How to reach me Discord Pro27#1831
 
 <!---
 Epet91/Epet91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
